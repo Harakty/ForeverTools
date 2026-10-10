@@ -1,0 +1,12 @@
+# Credentials, private applicant data and operational evidence
+.env
+.env.*
+*.key
+*application-draft*
+private/
+work/
+logs/
+# Build and dependency output
+node_modules/
+dist/
+target/
